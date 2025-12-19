@@ -38,14 +38,3 @@ Task Decomposition: Coordinator breaks down the task into subtasks (search, anal
 Agent Execution: Each agent carries out its role; agents communicate their outputs to the coordinator or other agents.
 Result Aggregation: Aggregator collates agent outputs into the final deliverable (e.g., markdown report, PDF, data summary).
 Output: Display or save the result for the user.
-
-
-
-
-## 🧑‍🎓 Author
-
-**👨‍💻 Jay Rathod**  
-*Software Engineer | AI & ML Trainer*  
-📍 Ahmedabad, India  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/rathodjay3497/) | [GitHub](https://github.com/JayRathod341997)
